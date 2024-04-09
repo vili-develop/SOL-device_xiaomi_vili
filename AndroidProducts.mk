@@ -10,4 +10,5 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
 	lineage_vili-user \
 	lineage_vili-userdebug \
-	lineage_vili-eng
+	lineage_vili-eng \
+	lineage_vili-ap1a-userdebug
